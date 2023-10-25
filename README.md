@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **nikhilgit02/nikhilgit02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,4 +28,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilgit02&show_icons=true&locale=en" alt="nikhilgit02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilgit02&" alt="nikhilgit02" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilgit02" alt="nikhilgit02" /></p>
